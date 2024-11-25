@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dev Landing Page
 
 Minimal landing page for developers.
@@ -40,3 +41,6 @@ If you want to make your new landing page available under a domain like `{userna
 ## License
 
 MIT © Dinesh Pandiyan
+=======
+# luangst.github.io
+>>>>>>> ac8b01da67303c9a1755a0644807999e88e40477
